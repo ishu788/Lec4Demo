@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lec4Demo</string>
+    <string name="txtViewTitle">Weight Calculator</string>
+    <string name="editTextWeight">PatientWeight</string>
+    <string name="btn_rd1">Convert Pounds to kilograms</string>
+    <string name="btn_rd2">Convert Kilograms to pounds</string>
+    <string name="btnComputeWeight">Compute Weight</string>
+    <string name="txtViewResults">Result</string>
+</resources>
